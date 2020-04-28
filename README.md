@@ -1,1 +1,2 @@
-# Projeto_integradr_controle
+# Controle_estoque_PI
+sistema de Controle de Estoque C#
